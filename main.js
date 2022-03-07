@@ -1,4 +1,3 @@
-
 //画线
 let canvas = document.getElementById("canvas");
 //获取canvas
@@ -10,8 +9,6 @@ ctx.fillStyle = "black";
 ctx.strokeStyle = 'black';
 ctx.lineWidth = 8;
 ctx.lineCap = "round";
-
-
 let painting = false
 let last
 
